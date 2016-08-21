@@ -1,2 +1,2 @@
-# My-project secho "# My-projects" >> README.md
+This is a summary of Tech Evangelist Projects
 
